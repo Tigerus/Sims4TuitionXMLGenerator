@@ -1,7 +1,7 @@
 This is small program which allows you to easily modify XML files from mod University Costs More created by Zero. Instead of tedious clicking and editing files in Sims4Studio you can create a CSV and modify all files at once. Though you need to go through some easy steps.
 
 1. Create CSV file.
-  You need a formatted file which contains all required values. To do it just download and open CSVtoEdit.csv file. There you can see deafult cost for each class in the Sims 4 university. Feel free to modify values as you want, but keep in mind this values have to be INTEGERS!!! as Sims 4 money can't be decimals. Also don't setup values to high, I didn't check the limit, though values around 1000000 per class shoulddn't be a problem.
+  You need a formatted file which contains all required values. To do it just download and open CSVtoEdit.csv file (you can use Excel or similar). There you can see deafult cost for each class in the Sims 4 university. Feel free to modify values as you want, but keep in mind this values have to be INTEGERS!!! as Sims 4 money can't be decimals. Also don't setup values to high, I didn't check the limit, though values around 1000000 per class shoulddn't be a problem.
   
   PS: Don't change first column (that with ABCD) and top row (with degree names).
   
