@@ -1,0 +1,10 @@
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\bin\Debug\Sims4TuitionXMLGenerator.exe.config
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\bin\Debug\Sims4TuitionXMLGenerator.exe
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\bin\Debug\Sims4TuitionXMLGenerator.pdb
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\obj\Debug\Sims4TuitionXMLGenerator.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\obj\Debug\Sims4TuitionXMLGenerator.Form1.resources
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\obj\Debug\Sims4TuitionXMLGenerator.Properties.Resources.resources
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\obj\Debug\Sims4TuitionXMLGenerator.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\obj\Debug\Sims4TuitionXMLGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\obj\Debug\Sims4TuitionXMLGenerator.exe
+C:\Users\Marcin\source\repos\Sims4TuitionXMLGenerator\Sims4TuitionXMLGenerator\obj\Debug\Sims4TuitionXMLGenerator.pdb
